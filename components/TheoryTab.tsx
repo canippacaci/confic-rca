@@ -175,3 +175,4 @@ export const TheoryTab: React.FC<TheoryTabProps> = ({ lang }) => {
     </div>
   );
 };
+

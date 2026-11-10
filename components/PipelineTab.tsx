@@ -668,3 +668,4 @@ export const PipelineTab: React.FC<PipelineTabProps> = ({ lang }) => {
     </div>
   );
 };
+

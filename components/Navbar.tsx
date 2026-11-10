@@ -110,3 +110,4 @@ export const Navbar: React.FC<NavbarProps> = ({ activeTab, setActiveTab, lang, s
     </header>
   );
 };
+

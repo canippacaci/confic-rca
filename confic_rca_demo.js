@@ -145,3 +145,4 @@ console.log('='.repeat(78));
 console.log('Sonuç: ConfIC-RCA, test anında YER DOĞRUSU OLMADAN, matematiksel');
 console.log('olarak geçerli tahmin aralıkları üreterek hasta güvenliğini sağlamıştır!');
 console.log('='.repeat(78));
+

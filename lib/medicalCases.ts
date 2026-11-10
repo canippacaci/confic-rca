@@ -202,3 +202,4 @@ export const MEDICAL_CASES: Record<string, MedicalCase> = {
     }
   }
 };
+

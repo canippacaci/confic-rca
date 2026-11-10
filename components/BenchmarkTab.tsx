@@ -458,3 +458,4 @@ export const BenchmarkTab: React.FC<BenchmarkTabProps> = ({ lang }) => {
     </div>
   );
 };
+
